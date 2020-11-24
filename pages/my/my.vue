@@ -24,7 +24,7 @@
 
 				<view class="d-flex a-center j-center a-self-end ml-auto px-2" style="height: 70rpx;background: #FFD43F;color: #CC4A00;border-top-left-radius: 40rpx;border-bottom-left-radius: 40rpx;">
 					<view class="line-h iconfont icon-huangguan mr-1"></view>
-					git修改lzhixiang 0.00
+					lzxiang开始修改git
 				</view>
 			</view>
 		</view>
