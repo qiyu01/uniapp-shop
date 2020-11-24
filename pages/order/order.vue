@@ -31,7 +31,10 @@
 
 
 		<view class="text-center main-text-color font-md font-weight mt-5">
+
 			xiaotie修改了哦
+			lingzhixiang
+
 		</view>
 		<view class="position-relative d-flex a-center j-center text-secondary mb-3 pt-3">
 			<view style="background: #F5F5F5;z-index: 2;" class="px-2 position-absolute">
